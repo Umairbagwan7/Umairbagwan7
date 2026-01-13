@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>📊 This is my GitHub profile created to showcase my professional skills and portfolio, with a focus on practical, real-world problem solving.<br><br>🎓 I hold a Master’s in Computer Applications (MCA) and a Bachelor’s in Computer Science, providing a strong technical and analytical foundation.<br><br>💼 I have 14 months of experience at WNS Global Services and a 2-month Analyst internship at Midbrain Technologies, where I worked on data handling, reporting, and analytical workflows.<br><br>🤝 I’m open to collaborations, feedback, and opportunities related to data analytics, and I actively use this platform to demonstrate my skills through practical, job-relevant work.<br><br>💡 Fun fact: I strongly believe that good data tells a story — great analysts make it actionable.
 
 
